@@ -11,8 +11,8 @@
 
 | 平台 | 文件 |
 |---|---|
-| Windows 64 位 | `对局之外_v1_Windows.zip` |
-| macOS（Intel / Apple Silicon） | `对局之外_v1_Mac.zip` |
+| Windows 64 位 | `BeyondTheDuel_v1_Windows.zip` |
+| macOS（Intel / Apple Silicon） | `BeyondTheDuel_v1_Mac.zip` |
 
 每个压缩包里都带 **《新手入门》**（Markdown 文件）。
 
